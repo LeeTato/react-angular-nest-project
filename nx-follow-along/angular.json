@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "projects": {
+    "angular-frontend": "apps/angular-frontend",
+    "angular-frontend-e2e": "apps/angular-frontend-e2e",
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "react-frontend": "apps/react-frontend",
+    "react-frontend-e2e": "apps/react-frontend-e2e"
+  }
+}
